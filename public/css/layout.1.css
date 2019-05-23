@@ -1,0 +1,106 @@
+body{
+    background: #282727;
+}
+
+.log {
+    color: #D34242;
+
+    text-decoration: none;
+    font-size: 55px;
+    font-family: 'Gugi', cursive;
+
+    position: fixed;
+    margin-top: 15px;
+
+}
+
+.musicTab {
+    color: #FFFFFF;
+
+    text-decoration: none;
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+
+    margin-left: 18%;
+    margin-top: 34px;
+    position: fixed;
+}
+
+.booksTab {
+    color: #FFFFFF;
+
+    text-decoration: none;
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+
+    margin-left: 30%;
+    margin-top: 34px;
+    position: fixed;
+}
+
+.moviesTab {
+    color: #FFFFFF;
+
+    text-decoration: none;
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+
+    margin-left: 42%;
+    margin-top: 34px;
+    position: fixed;
+}
+
+.seriesTab{
+    color: #FFFFFF;
+
+    text-decoration: none;
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+
+    margin-left: 55%;
+    margin-top: 34px;
+    position: fixed;
+}
+
+.search {
+    position: fixed;
+
+    margin-left: 80%;
+    margin-top: 20px;
+}
+
+.userName {
+    color: #FFFFFF;
+
+    text-decoration: none;
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+
+    margin-left: 84%;
+    margin-top: 20px;
+    position: fixed;
+}
+
+.userPic {
+    position: fixed;
+
+    margin-left: 90%;
+    margin-top: 20px;
+
+    background-color: #C6C6C6;
+}
+
+.moviePosters {
+
+
+    width: 50%;
+}
+
+.musicTab, .booksTab, .movies:visited {
+    color: #FFFFFF;
+}
+
+.list {
+    list-style-type: none;
+}
+

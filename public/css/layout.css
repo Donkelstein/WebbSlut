@@ -1,0 +1,110 @@
+body{
+    background: #282727;
+}
+
+nav {
+    text-decoration: none;
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+}
+
+nav > ul  {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+nav > ul > li {
+    display: inline;
+}
+
+nav > ul > li > a {
+    color: #FFFFFF;
+
+    text-decoration: none;
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+}
+
+nav > ul > li > a:hover {
+
+}
+
+.log {
+    color: #D34242;
+
+    text-decoration: none;
+    font-size: 55px;
+    font-family: 'Gugi', cursive;
+
+    margin-top: 16px;
+}
+
+.moviePosters {
+    width: 50%;
+}
+
+.musicTab {
+    margin-left: 3%;
+}
+
+.booksTab {
+    margin-left: 3.5%;
+}
+
+.moviesTab {
+    margin-left: 4.5%;
+}
+
+.SeriesTab {
+    margin-left: 5.5%;
+}
+
+.list {
+    width: 80%;
+    margin-left: 2.5%;
+    margin-top: 1.5%;
+    list-style-type: none;
+}
+
+.musicTab, .booksTab, .movies:visited {
+    color: #FFFFFF;
+}
+
+.moviePosters {
+    margin-left: 2.5%;
+    margin-top: 1%;
+}
+
+.movie7 {
+    margin-left: 44.5%;
+    position: absolute;
+}
+
+#movie{
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.container {
+    width: 100%;
+}
+
+.userName {
+    font-size: 27px;
+    margin-top: 5%;
+}
+
+.userPic {
+    background-color: #C6C6C6;
+}
+
+.listContainer {
+    margin-left: 70%;
+    width: 20%;
+    height: 40%;
+
+    text-decoration: none;
+}
